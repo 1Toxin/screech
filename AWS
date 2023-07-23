@@ -236,99 +236,10 @@ local Tab = Window:MakeTab({
 Tab:AddButton({
 	Name = "Copy new discord invite",
 	Callback = function()
-      		setclipboard("discord.gg/bhuRrVJd4G")
+      		setclipboard("https://discord.gg/TYVp6X8WVF")
   	end    
 })
 
 
-Tab:AddButton({
-	Name = "gg/bhuRrVJd4G",
-	Callback = function()
-      		setclipboard("discord.gg/bhuRrVJd4G")
-  	end    
-})
-Tab:AddButton({
-	Name = "gg/bhuRrVJd4G",
-	Callback = function()
-      		setclipboard("discord.gg/bhuRrVJd4G")
-  	end    
-})
-Tab:AddButton({
-	Name = "gg/bhuRrVJd4G",
-	Callback = function()
-      		setclipboard("discord.gg/bhuRrVJd4G")
-  	end    
-})
-Tab:AddButton({
-	Name = "gg/bhuRrVJd4G",
-	Callback = function()
-      		setclipboard("discord.gg/bhuRrVJd4G")
-  	end    
-})
-Tab:AddButton({
-	Name = "gg/bhuRrVJd4G",
-	Callback = function()
-      		setclipboard("discord.gg/bhuRrVJd4G")
-  	end    
-})
 
-Tab2:AddButton({
-	Name = "Copy new discord invite",
-	Callback = function()
-      		setclipboard("discord.gg/bhuRrVJd4G")
-  	end    
-})
-Tab3:AddButton({
-	Name = "Copy new discord invite",
-	Callback = function()
-      		setclipboard("discord.gg/bhuRrVJd4G")
-  	end    
-})
-Tab4:AddButton({
-	Name = "Copy new discord invite",
-	Callback = function()
-      		setclipboard("discord.gg/bhuRrVJd4G")
-  	end    
-})
-Tab5:AddButton({
-	Name = "Copy new discord invite",
-	Callback = function()
-      		setclipboard("discord.gg/bhuRrVJd4G")
-  	end    
-})
-Tab6:AddButton({
-	Name = "Copy new discord invite",
-	Callback = function()
-      		setclipboard("discord.gg/bhuRrVJd4G")
-  	end    
-})
-
-
-local Tab2 = Window:MakeTab({
-	Name = "gg/bhuRrVJd4G",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-local Tab3 = Window:MakeTab({
-	Name = "gg/bhuRrVJd4G",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-local Tab4 = Window:MakeTab({
-	Name = "gg/bhuRrVJd4G",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-local Tab5 = Window:MakeTab({
-	Name = "gg/bhuRrVJd4G",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-local Tab6 = Window:MakeTab({
-	Name = "gg/bhuRrVJd4G",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-
-setclipboard("https://discord.gg/bhuRrVJd4G")
+setclipboard("https://discord.gg/TYVp6X8WVF")
